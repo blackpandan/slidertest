@@ -1,0 +1,23 @@
+@import 'base';
+
+.main{
+	.home{
+		display: flex;
+		min-height: 100vh;
+		align-items: center;
+		justify-content: center;
+	}
+}
+
+.hidden{
+	opacity: 0;
+	filter: blur(2px);
+	transform: translateX(150px);
+	transition: all 1s;
+}
+
+.show{
+	opacity: 1;
+	filter: blur(0);
+	transform: translateX(0);
+}

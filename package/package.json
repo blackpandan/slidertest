@@ -1,0 +1,24 @@
+{
+  "name": "slidertest-df",
+  "version": "1.0.0",
+  "description": "a test package for the actual slider-devfate package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackpandan/slidertest.git"
+  },
+  "keywords": [
+    "slidertest",
+    "slider",
+    "slider-df"
+  ],
+  "author": "devfate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackpandan/slidertest/issues"
+  },
+  "homepage": "https://github.com/blackpandan/slidertest#readme"
+}
